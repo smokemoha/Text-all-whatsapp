@@ -14,19 +14,19 @@ This project is a **Python-based WhatsApp bot** that automates the process of se
 Ensure you have the following installed:  
 - **Python 3.8+** → [Download Python](https://www.python.org/downloads/)  
 - **Google Chrome** (Required for WhatsApp Web)  
-- **WhatsApp Web Linked to Your Phone**  
+- **WhatsApp Web Linked to Your Phone** , ,
 ### **2️⃣ Install Required Dependencies**  
 Run the following command to install the required libraries:  
-pip install pywhatkit
+pip install pywhatkit,
 3️⃣ Clone the Repository
 git clone https://github.com/YOUR-USERNAME/whatsapp-bot.git
-cd whatsapp-bot
+cd whatsapp-bot,
 4️⃣ Configure the Bot
 Open the script (whatsapp_bot.py) and modify the phone_numbers list with the numbers you want to message.
 Update the message_text with the content you wish to send.
-How to Run the Script
+How to Run the Script,
 Run the following command to start sending messages:
-python whatsapp_bot.py
+python whatsapp_bot.py,
 Once executed:
 The script will open WhatsApp Web in your browser.
 It will automatically send messages to each recipient in the list.
