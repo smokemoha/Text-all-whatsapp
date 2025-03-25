@@ -19,7 +19,7 @@ Ensure you have the following installed:
 Run the following command to install the required libraries:  
 pip install pywhatkit,
 3️⃣ Clone the Repository
-git clone https://github.com/YOUR-USERNAME/whatsapp-bot.git
+git clone https://github.com/smokemoha/whatsapp-bot.git
 cd whatsapp-bot,
 4️⃣ Configure the Bot
 Open the script (whatsapp_bot.py) and modify the phone_numbers list with the numbers you want to message.
